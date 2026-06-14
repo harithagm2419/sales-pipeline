@@ -1,0 +1,9 @@
+==================== 2026-06-13T19:13:41.848803Z | 019ec267-79d2-7f93-910e-557e07ad3174 ====================
+19:13:41.849261 [info ]: Installing dbt project and profile setup
+19:13:41.907389 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+19:13:41.908267 [info ]: Success Project created successfully!
+19:13:41.908584 [info ]: Info Project name: jaffle_shop
+19:13:41.908938 [info ]: Info Project directory: jaffle_shop
+19:13:41.909298 [info ]: Info Setting up your profile...
+19:13:41.909956 [info ]: Info Creating new profile...
+19:14:07.116971 [info ]: No dbt_cloud.yml found - proceeding without cloud pre-population
